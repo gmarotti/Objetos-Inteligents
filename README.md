@@ -1,0 +1,2 @@
+# Objetos-Inteligents
+O projeto Fechadura digital tem como tarefa trancar e destrancar o ambiente de forma automática, presencialmente ou remotamente. Após o usuário inserir o código de segurança ou biometria e ser validado na rede, o acesso ao ambiente é liberado. Caso, ele não seja autenticado, vamos notificar o usuário administrador e orientar que ele solicite apoio policial. Todo o processo é feito via celular. Ao deixar o ambiente é acionado um sensor de movimento que irá te enviar notificações caso alguém esteja no local.
