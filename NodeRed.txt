@@ -1,1 +1,0 @@
-[{"id":"8199cfa7.d29f6","type":"function","z":"6e301cbb.42f834","name":"JSON","func":"var str= msg.payload;\nif (str==\"0\"){\n    msg={payload:\"line\"};\n}\nelse{\n    msg={payload: \"red\"};\n}\nreturn msg;","outputs":1,"noerr":0,"x":570,"y":380,"wires":[["556d0e5.35f37f"]]}]
